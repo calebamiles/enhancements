@@ -1,13 +1,13 @@
 authors:
 - calebamiles
-created: "2019-05-21T03:05:45.770806468Z"
+created: "2019-05-21T03:06:14.911691634Z"
 kubernetes_wide: true
-last_updated: "2019-05-21T03:05:45.774434952Z"
+last_updated: "2019-05-21T03:06:14.918698492Z"
 owning_sig: sig-architecture
 sections:
-- summary.md
 - motivation.md
 - README.md
+- summary.md
 state: provisional
 title: A Great And Complex Idea
-uuid: 1dcdba7d-48cb-490a-aa53-e4c4cddf4658
+uuid: 0d007c55-df46-49e7-85d8-60604a578063
